@@ -1,2 +1,2 @@
 # ProjectSQL
-Second projet for Coderslab
+Second project for Coderslab
